@@ -3,7 +3,7 @@ Bash script that fetches aur packages and installs them.
 # Dependencies: {
   base-devel
   git
-}
+#}
 
 # Installation: {
   Clone the repository: ```git clone https://github.com/TuxxyThePenguin/tuxxy```
@@ -11,4 +11,4 @@ Bash script that fetches aur packages and installs them.
   Build tuxxy: ```makepkg -si```
 
   Now you can run ```tuxxy``` anywhere in youre terminal!
-}
+#}
